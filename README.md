@@ -38,8 +38,6 @@
 | **Firebase**      | Cloud backend for data storage and real-time sync |
 | **Realtime Database** | Instant synchronization of data across clients |
 | **Firestore Database** | Structured storage and advanced querying |
-| **Git**           | Version control system |
-| **GitHub**        | Repository hosting and collaboration |
 
 ---
 
