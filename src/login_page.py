@@ -42,21 +42,9 @@ def login_window(page: ft.Page):
     page.title = 'Login Page'
     page.on_keyboard_event = handle_keyboard
 
-    window_height = 300
-    window_width = 400
     text_field_width = 300
 
-    page.window.maximizable = False
-    page.window.resizable = False
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
-
-    #Alto y ancho predeterminado
-    page.window.height = window_height
-    page.window.width = window_width
-
-    #Mínimo alto y ancho
-    page.window.min_height = window_height
-    page.window.min_width = window_width
 
     email_ref = ft.Ref()
     password_ref = ft.Ref()

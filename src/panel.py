@@ -25,10 +25,11 @@ def panel_window(page: ft.Page):
 
     page.window.maximized = True  # Maximiza la ventana
     page.window.maximizable = True
-    page.window.resizable = True
+    page.window.resizable = False
+
     #Mínimo alto y ancho
-    page.window.min_height = 800
-    page.window.min_width = 1200
+    page.window.min_height = 600
+    page.window.min_width = 700
 
     # Contenedor principal para el contenido de la pantalla
     content_container = ft.Container(
