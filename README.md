@@ -19,15 +19,12 @@
 
 ## 🖼 Images
 
-<p align="center">
+<div style="display: flex; justify-content: center; overflow-x: auto; gap: 10px; padding: 10px; background-color: #f9f9f9;">
   <img src="src/assets/images/sdaci1.png" alt="Home Page" width="350" style="border-radius: 10px;">
   <img src="src/assets/images/sdaci2.png" alt="Fire Alarm Browser" width="350" style="border-radius: 10px;">
   <img src="src/assets/images/sdaci3.png" alt="Inventory Browser" width="350" style="border-radius: 10px;">
   <img src="src/assets/images/sdaci4.png" alt="Inventory Browser" width="350" style="border-radius: 10px;">
-</p>
-
-
-
+</div>
 
 
 ---
