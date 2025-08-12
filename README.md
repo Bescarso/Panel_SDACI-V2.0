@@ -20,9 +20,9 @@
 ## 🖼 Preview (Reel Style)
 
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px; background-color: #f9f9f9;">
-  <img src="src\assets\icon.png" alt="Home Page" width="300" style="border-radius: 10px;">
-  <img src="src\assets\splash_android.png" alt="Fire Alarm Browser" width="300" style="border-radius: 10px;">
-
+  <img src="src\assets\images\sdaci1.png" alt="Home Page" width="300" style="border-radius: 10px;">
+  <img src="src\assets\images\sdaci2.png" alt="Fire Alarm Browser" width="300" style="border-radius: 10px;">
+   <img src="src\assets\images\sdaci3.png" alt="Fire Alarm Browser" width="300" style="border-radius: 10px;">
 </div>
 
 
