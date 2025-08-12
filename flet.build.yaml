@@ -1,0 +1,2 @@
+include:
+  - "src/firebase_app_pci.json"
