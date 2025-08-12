@@ -48,10 +48,10 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/inventory-firealarm-app.git
+git clone https://github.com/Bescarso/Panel_SDACI-V2.0.git
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the application
-python main.py
+python src\main.py
